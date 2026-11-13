@@ -6,23 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 11 |
+| 21 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (10)
+- [implementation](#implementation) (11)
 - [math](#math) (6)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 
 ---
 
@@ -31,6 +32,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/158/A%20-%20Next%20Round/solution.py) |
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2280B | [Secret String Patterns](https://codeforces.com/contest/2280/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2280/B%20-%20Secret%20String%20Patterns/solution.cpp) |
 
 ### brute force
 
@@ -89,6 +96,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.py) |
 | 705A | [Hulk](https://codeforces.com/contest/705/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/705/A%20-%20Hulk/solution.py) |
 | 2074A | [Draw a Square](https://codeforces.com/contest/2074/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2074/A%20-%20Draw%20a%20Square/solution.py) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
 
 ### math
 
@@ -115,6 +123,7 @@
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.py) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.py) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/520/A%20-%20Pangram/solution.py) |
+| 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.py) |
 
 ---
 
