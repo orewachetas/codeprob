@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Difficulty** | 1000 |
-| **Language** | Python 3 |
+| **Language** | C++23 (GCC 14-64, msys2) |
 | **Verdict** | ✅ Accepted |
 | **Problem Link** | [Codeforces 2276B](https://codeforces.com/contest/2276/problem/B) |
 
