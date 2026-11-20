@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 7 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
 - [math](#math) (1)
 - [sortings](#sortings) (2)
@@ -38,6 +38,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 
 ### implementation
