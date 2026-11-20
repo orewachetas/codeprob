@@ -6,23 +6,31 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 3 |
+| 4 | 4 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [implementation](#implementation) (3)
-- [sortings](#sortings) (1)
+- [data structures](#data-structures) (1)
+- [implementation](#implementation) (4)
+- [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
 ---
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 
 ### implementation
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
@@ -31,6 +39,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
+| 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 
 ### strings
 
