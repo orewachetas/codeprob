@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 8 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (1)
+- [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
-- [math](#math) (1)
+- [implementation](#implementation) (5)
+- [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -27,6 +28,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 
 ### data structures
 
@@ -48,13 +50,21 @@
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+| 1904A | [Forked!](https://codeforces.com/contest/1904/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1904/A%20-%20Forked!/solution.cpp) |
 | 2276B | [Replace and Compress](https://codeforces.com/contest/2276/problem/B) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2276/B%20-%20Replace%20and%20Compress/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
 
 ### sortings
 
