@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 8 |
+| 11 | 8 |
 
 ---
 
@@ -14,11 +14,11 @@
 
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (6)
-- [math](#math) (2)
+- [math](#math) (3)
 - [number theory](#number-theory) (1)
-- [sortings](#sortings) (4)
+- [sortings](#sortings) (5)
 - [strings](#strings) (1)
 
 ---
@@ -40,6 +40,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1692/B%20-%20All%20Distinct/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1807B | [Grab the Candies](https://codeforces.com/contest/1807/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1807/B%20-%20Grab%20the%20Candies/solution.cpp) |
@@ -61,6 +62,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [Python 3](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.py) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1873B | [Good Kid](https://codeforces.com/contest/1873/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1873/B%20-%20Good%20Kid/solution.cpp) |
 
 ### number theory
@@ -74,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1669B | [Triple](https://codeforces.com/contest/1669/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1669/B%20-%20Triple/solution.cpp) |
+| 1676B | [Equal Candies](https://codeforces.com/contest/1676/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1676/B%20-%20Equal%20Candies/solution.cpp) |
 | 1692B | [All Distinct](https://codeforces.com/contest/1692/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1692/B%20-%20All%20Distinct/solution.cpp) |
 | 1742B | [Increasing](https://codeforces.com/contest/1742/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1742/B%20-%20Increasing/solution.cpp) |
 | 1760C | [Advantage](https://codeforces.com/contest/1760/problem/C) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/1760/C%20-%20Advantage/solution.cpp) |
