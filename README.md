@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 8 |
+| 12 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (1)
 - [greedy](#greedy) (5)
@@ -22,6 +23,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/chetaspatel2008/codeprob/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.cpp) |
 
 ### brute force
 
